@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julien-789
 - 👀 I’m interested in Technical Analysis and Charting
-- 🌱 I’m currently learning BBC Basic For SDL 2.0
+- 🌱 I’m currently learning BBC Basic For SDL 2.0 and FreeBasic
 - 💞️ I’m looking to collaborate on QChartist
 - 📫 How to reach me on Google or on my Website
 
